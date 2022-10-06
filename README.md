@@ -1,2 +1,2 @@
 #demo 
-Please ready read comments within the sketch for better understanding
+Please read comments within the sketch for better understanding
